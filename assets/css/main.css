@@ -1,0 +1,53 @@
+.formContainer {
+  height: 600px;
+  width: 100%;
+  padding: 20px;
+  margin: 0 auto;
+  display: block;
+}
+.loginForm {
+  background-color: white;
+  width: 320px;
+  height: 500px;
+  margin: 5px auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  border: 1px solid purple;
+  border-radius: 10px;
+}
+button.btn {
+  color: white;
+  background-color: purple !important;
+  margin: 0 auto;
+  display: block;
+}
+.loginRef {
+  margin-top: 10px;
+}
+
+.defImg {
+  width: 120px;
+  height: 120px;
+  padding: 5px;
+  margin: 0 auto;
+  display: block;
+}
+
+.socialNetwork {
+  margin: 5px;
+  padding: 5px 57px;
+}
+
+.in1,
+.in2,
+.in3 {
+  margin: 15px;
+  padding: 10px;
+  font-family: "Times New Roman", Times, serif;
+  color: purple;
+}
+
+input {
+  border-radius: 5px;
+  border: 1px solid purple;
+}
